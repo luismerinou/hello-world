@@ -10,8 +10,8 @@ Este repositorio está diseñado para enseñar a nuevos usuarios cómo utilizar 
 
 2. **📘 Conceptos Básicos de GitHub**
    - 📂 Repositorios
-   - 💾 Commits
-   - 🌿 Branches
+   - 💾 Commits --> uso de convenciones para el nombrado como [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+   - 🌿 Branches --> Uso de convenciones como [Git flow ](https://docs.github.com/es/get-started/using-github/github-flow)
 
 3. **🔄 Trabajando con Pull Requests (PRs)**
    - 📝 Creación de una PR
